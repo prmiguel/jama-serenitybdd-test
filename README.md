@@ -6,4 +6,10 @@ This repo is for demonstrating the approaches to connect Jama to Serenity BDD te
 
 ### Requirements:
 1. Get free trial account in [Jama](https://www.jamasoftware.com/)
-2. Create a new project with Product Key and Name
+2. Setup Jama project and tests
+
+a. Create project and tests from scratch
+* Create a new project with Product Key and Name
+
+b. Import Project and tests
+* TBD
