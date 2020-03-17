@@ -19,3 +19,12 @@ For more references see: https://www.jamasoftware.com/solutions/test-management/
 
 b. Import Project and tests
 * TBD
+
+### References
+- https://dev.jamasoftware.com/
+- https://dev.jamasoftware.com/api/
+- https://dev.jamasoftware.com/cookbook/
+- https://rest.jamasoftware.com/
+- https://github.com/JamaSoftware/REST-References
+- https://github.com/systelab/jama-api
+- 
